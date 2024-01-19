@@ -1,1 +1,2 @@
-﻿Write-Host "Hello World"
+Clear-Host
+Write-Host "Hello World"
